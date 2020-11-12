@@ -24,6 +24,7 @@
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^2.7.0",
     "angular-material-fileupload": "^3.0.1",
+    "bootstrap": "^4.5.3",
     "ml5": "^0.6.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",

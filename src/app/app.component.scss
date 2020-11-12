@@ -1,6 +1,22 @@
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#fileLoadContainer {
   width: 50%;
+}
+
+  @media (max-width: 703px) {
+    #fileLoadContainer {
+      width: 80%;
+    }
+  }
+.margin-top-30{
+  margin-top: 30px;
+}
+img{
+  max-width: 100%;
+  height: auto
 }
